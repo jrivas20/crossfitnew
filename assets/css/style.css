@@ -694,7 +694,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /*--------------------------------------------------*/
 
 .bg-banner-img{
-    background-image: url(../images/0.JPG);
+    background-image: url("https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/43006778_2175692816088220_3479344244756316160_n.jpg?_nc_cat=107&oh=75af770656d198e67d5e554edbfd9cb9&oe=5C2014C5");
     background-repeat: no-repeat;
     background-position: center bottom;
     -webkit-background-size: cover;
